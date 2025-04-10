@@ -3200,7 +3200,7 @@ p {
   }
 }
 .main-menu .main-menu__list > li > a {
-  font-size: 16px;
+  font-size: 18px;
   display: flex;
   align-items: center;
   color: var(--floens-text, #7A736A);
@@ -4609,11 +4609,11 @@ body.megamenu-popup-active .mobile-nav__content {
   text-transform: capitalize;
   margin: 0;
 }
-.footer-widget--links-one {
+/* .footer-widget--links-one {
   position: relative;
   right: -26px;
   padding-left: 50px;
-}
+} */
 @media (max-width: 1199px) {
   .footer-widget--links-one {
     right: 0;
@@ -4638,9 +4638,9 @@ body.megamenu-popup-active .mobile-nav__content {
     padding-left: 0px;
   }
 }
-.footer-widget--contact {
-  padding-left: 56px;
-}
+/* .footer-widget--contact {
+  padding-left: 20px;
+} */
 @media (max-width: 1199px) {
   .footer-widget--contact {
     padding-left: 0px;
@@ -4744,9 +4744,9 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .client-carousel__one__item img {
-  opacity: 0.2;
+  /* opacity: 0.2; */
   transition: all 500ms ease;
-  max-width: 100%;
+  max-width: 8rem;
   width: auto !important;
 }
 @media (max-width: 1199px) {
@@ -4790,7 +4790,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (min-width: 1400px) {
   .main-slider__carousel {
-    width: calc(100% - 223px);
+    width: calc(100% - 100px);
   }
 }
 .main-slider__item {
@@ -4799,22 +4799,22 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (max-width: 1599px) {
   .main-slider__item {
-    padding: 200px 0 278px;
+    padding: 100px 0 178px;
   }
 }
 @media (max-width: 1399px) {
   .main-slider__item {
-    padding: 170px 0 200px;
+    padding: 80px 0 200px;
   }
 }
 @media (max-width: 991px) {
   .main-slider__item {
-    padding: 120px 0 150px;
+    padding: 60px 0 150px;
   }
 }
 @media (max-width: 575px) {
   .main-slider__item {
-    padding-bottom: 200px;
+    padding-bottom: 80px;
   }
 }
 .main-slider__bg {
@@ -4935,6 +4935,7 @@ body.megamenu-popup-active .mobile-nav__content {
   width: 100%;
   max-width: 670px;
   margin-left: auto;
+  margin-right: auto;
   transform: scale(0.8);
   opacity: 0;
   transition: transform 2s ease;
@@ -4942,7 +4943,7 @@ body.megamenu-popup-active .mobile-nav__content {
 @media (max-width: 991px) {
   .main-slider__image {
     max-width: 450px;
-    margin-left: 0;
+    /* margin-left: 0; */
   }
 }
 @media (max-width: 425px) {
@@ -5001,7 +5002,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: absolute;
   left: -58px;
   bottom: -55px;
-  z-index: -1;
+  z-index: 1;
   animation: zump 2s linear infinite;
 }
 @media (max-width: 1599px) {
@@ -12111,7 +12112,7 @@ li:hover .sidebar__comments__icon::after {
 .offer-one__main-tab-box {
   padding: 30px;
   position: relative;
-  display: grid;
+  /* display: grid; */
   grid-template-columns: 36.4% auto;
   align-items: start;
   gap: 30px;
@@ -12133,14 +12134,16 @@ li:hover .sidebar__comments__icon::after {
   }
 }
 .offer-one__main-tab-box__bg {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   left: 0;
   right: 0;
-  bottom: 0;
+  bottom: 0; */
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
 }
 .offer-one__main-tab-box .tab-box-buttons {
   position: relative;
@@ -13251,7 +13254,7 @@ li:hover .sidebar__comments__icon::after {
   opacity: 0;
   transform: scaleY(0);
 }
-.service-card__top {
+/* .service-card__top {
   position: relative;
   display: flex;
   gap: 30px;
@@ -13270,7 +13273,7 @@ li:hover .sidebar__comments__icon::after {
 .service-card__image img {
   width: 100%;
   display: block;
-}
+} */
 .service-card__icon {
   width: 70px;
   flex-shrink: 0;
@@ -13298,7 +13301,8 @@ li:hover .sidebar__comments__icon::after {
   line-height: 1;
   letter-spacing: -0.72px;
   text-transform: capitalize;
-  margin-bottom: 18px;
+  margin-top: 18px;
+  margin-bottom: 0;
 }
 @media (max-width: 412px) {
   .service-card__title {
@@ -13587,6 +13591,7 @@ li:hover .sidebar__comments__icon::after {
   padding: 59px 61px 55px;
   background-color: var(--floens-base2, #8A5133);
   overflow: hidden;
+  border-radius: 2rem;
 }
 @media (max-width: 767px) {
   .services-one__info__inner {
