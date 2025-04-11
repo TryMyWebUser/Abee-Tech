@@ -49,7 +49,7 @@
                         <ul class="list-unstyled footer-widget__info">
                             <!-- <li><a href="https://maps.app.goo.gl/xhjV19t1D6DZgeU78">Office: S.F.NO:299, Ellappan Street, V.K Road Thaneer Panthal, Peelamedu, Coimbatore - 641004</a></li> -->
                             <!-- <li><a href="https://maps.app.goo.gl/xhjV19t1D6DZgeU78">Factory: S.F.NO:215, Sulur Railway Fedder Road, Kurumbapalayam, Muthugoundempudure, Coimbatore - 641406</a></li> -->
-                            <li><span class="icon-paper-plane"></span> <a href="mailto:abeetechnicals@gmail.com">abeetechnicals@gmail.com</a></li>
+                            <li><span class="icon-paper-plane"></span> <a href="mailto:abeetechnicals@gmail.com" style="text-transform: lowercase;">abeetechnicals@gmail.com</a></li>
                             <li><span class="icon-paper-plane"></span> <a href="mailto:abeepattern@gmail.com">abeepattern@gmail.com</a></li>
                             <li><span class="icon-phone-call"></span> <a href="tel:+919443426998">+91 9443 426 998</a></li>
                             <li><span class="icon-phone-call"></span> <a href="tel:+918870470016">+91 8870 470 016</a></li>
