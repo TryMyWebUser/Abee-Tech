@@ -3,9 +3,9 @@
         <div class="main-header__inner">
             <div class="main-header__left">
                 <div class="main-header__logo">
-                    <a href="index.html">
-                        <!-- <img src="assets/images/logo-dark.png" alt="Floens HTML" width="125" /> -->
-                        <h4>Abee Technicals</h4>
+                    <a href="index.php" class="d-flex align-items-center">
+                        <img src="assets/images/Abee logo.png" alt="Floens HTML" width="60" />
+                        <h4 class="mb-0 ms-2">Abee Technicals</h4>
                     </a>
                 </div>
                 <!-- /.main-header__logo -->
@@ -36,7 +36,7 @@
                                 <li><a href="#">Sisa Matic</a></li>
                                 <li><a href="#">Sinto M/C</a></li>
                                 <li><a href="#">No Bake Process</a></li>
-                                <li><a href="#">ShellMould Process</a></li>
+                                <li><a href="#">Shell Mould Process</a></li>
                                 <li><a href="#">All Types of Core Box</a></li>
                             </ul>
                         </li>

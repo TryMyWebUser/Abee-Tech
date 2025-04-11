@@ -243,7 +243,7 @@
                                 <!-- /.about-one__image -->
                                 <div class="about-one__circle-text">
                                     <div class="about-one__circle-text__bg" style="background-image: url('assets/images/resources/about-award-bg.jpg');"></div>
-                                    <img src="assets/images/resources/about-award-symbol.png" alt="award-symbole" class="about-one__circle-text__image" />
+                                    <img src="assets/images/Abee logo.png" style="width: -webkit-fill-available;" alt="Abee Technicals" class="about-one__circle-text__image" />
                                     <div class="about-one__curved-circle curved-circle">
                                         <!-- curved-circle start-->
                                         <div
@@ -252,7 +252,7 @@
                                             "radius": 84,
                                             "forceWidth": true,
                                             "forceHeight": true}'>
-                                            Abee Technicals 25Year Experience
+                                            Abee Technicals
                                         </div>
                                     </div>
                                     <!-- curved-circle end-->
@@ -395,11 +395,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-3.jpg" alt="" />
+                                        <img src="assets/images/services/gdc.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">GDC DIE</a></h3>
@@ -414,11 +414,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-3.jpg" alt="" />
+                                        <img src="assets/images/services/hpdc.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">HPDC Dies</a></h3>
@@ -433,11 +433,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-3.jpg" alt="" />
+                                        <img src="assets/images/services/cf.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">Core Fixture</a></h3>
@@ -544,11 +544,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/Arpa.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">Arpa 300 - 1300</a></h3>
@@ -563,11 +563,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/df.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">Disa Flex - 70, 90</a></h3>
@@ -582,14 +582,14 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/dm.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
-                                    <h3 class="service-card__title"><a href="#">Sisa Matic</a></h3>
+                                    <h3 class="service-card__title"><a href="#">Disa Matic</a></h3>
                                     <!-- /.service-card__title -->
                                 </div>
                                 <!-- /.service-card__content -->
@@ -601,11 +601,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/smc.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">Sinto M/C</a></h3>
@@ -620,11 +620,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/nbp.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">No Bake Process</a></h3>
@@ -639,14 +639,14 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/smp.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
-                                    <h3 class="service-card__title"><a href="#">ShellMould Process</a></h3>
+                                    <h3 class="service-card__title"><a href="#">Shell Mould Process</a></h3>
                                     <!-- /.service-card__title -->
                                 </div>
                                 <!-- /.service-card__content -->
@@ -658,11 +658,11 @@
                             <div class="service-card">
                                 <div class="service-card__bg"></div>
                                 <!-- /.service-card__bg -->
-                                <!-- <div class="service-card__top">
+                                <div class="service-card__top">
                                     <div class="service-card__image">
-                                        <img src="assets/images/services/service-1-1.jpg" alt="" />
+                                        <img src="assets/images/services/atofcb.png" alt="" />
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- /.service-card__top -->
                                 <div class="service-card__content">
                                     <h3 class="service-card__title"><a href="#">All Types of Core Box</a></h3>

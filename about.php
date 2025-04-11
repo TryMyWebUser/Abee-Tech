@@ -52,7 +52,7 @@
                                 <!-- /.about-one__image -->
                                 <div class="about-one__circle-text">
                                     <div class="about-one__circle-text__bg" style="background-image: url('assets/images/resources/about-award-bg.jpg');"></div>
-                                    <img src="assets/images/resources/about-award-symbol.png" alt="award-symbole" class="about-one__circle-text__image" />
+                                    <img src="assets/images/Abee logo.png" alt="Abee Technicals" style="width: -webkit-fill-available;" class="about-one__circle-text__image" />
                                     <div class="about-one__curved-circle curved-circle">
                                         <!-- curved-circle start-->
                                         <div
@@ -61,7 +61,7 @@
                                             "radius": 84,
                                             "forceWidth": true,
                                             "forceHeight": true}'>
-                                            Abee Technicals 25Year Experience
+                                            Abee Technicals
                                         </div>
                                     </div>
                                     <!-- curved-circle end-->

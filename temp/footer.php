@@ -6,9 +6,9 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                     <div class="footer-widget footer-widget--about">
-                        <a href="index.php" class="footer-widget__logo">
-                            <!-- <img src="assets/images/logo-light.png" width="123" alt="Floens HTML Template" /> -->
-                            <h4 class="m-0" style="color: #FFF;">Abee Technicals</h4>
+                        <a href="index.php" class="d-flex align-items-center mb-3">
+                            <img src="assets/images/Abee logo.png" alt="Floens HTML" width="60" />
+                            <h4 class="mb-0 ms-2" style="color: #fff;">Abee Technicals</h4>
                         </a>
                         <p class="footer-widget__about-text">ABEE TECHNICALS COIMBATORE. We have experienced especially on VMC pattern making from 2005 onwards. Supported automotive industry for more then 25 years, with more then 3000 verities of components.</p>
                         <!-- /.footer-widget__about-text -->
@@ -135,9 +135,9 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.php" aria-label="logo image">
-                <!-- <img src="assets/images/logo-light.png" width="155" alt="logo-light" /> -->
-                <h4 style="color: #FFF;">Abee Technicals</h4>
+            <a href="index.php" class="d-flex align-items-center" aria-label="logo image">
+                <img src="assets/images/Abee logo.png" width="60" alt="logo-light" />
+                <h4 class="mb-0 ms-2" style="color: #FFF;">Abee Technicals</h4>
             </a>
         </div>
         <!-- /.logo-box -->
@@ -150,7 +150,7 @@
                 <a href="mailto:abeetechnicals@gmail.com">abeetechnicals@gmail.com</a>
             </li>
             <li>
-                <i class="fa fa-phone-alt"></i>
+                <i class="fa fa-phone"></i>
                 <a href="https://wa.me/+919443426998">+91 9443 426 998</a>
             </li>
         </ul>
