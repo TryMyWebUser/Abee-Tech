@@ -69,6 +69,13 @@
                                                 </div>
                                                 <!-- /.contact-one__info__icon -->
                                                 <p class="contact-one__info__text"><a href="tel:+919443426998">+91 9443 426 998</a></p>
+                                                <!-- /.contact-one__info__text -->
+                                            </div>
+                                            <div class="contact-one__info__item__inner">
+                                                <div class="contact-one__info__icon">
+                                                    <span class="icon-phone-call"></span>
+                                                </div>
+                                                <!-- /.contact-one__info__icon -->
                                                 <p class="contact-one__info__text"><a href="tel:+918870470016">+91 8870 470 016</a></p>
                                                 <!-- /.contact-one__info__text -->
                                             </div>
@@ -82,6 +89,13 @@
                                                 </div>
                                                 <!-- /.contact-one__info__icon -->
                                                 <p class="contact-one__info__text"><a href="mailto:abeetechnicals@gmail.com">abeetechnicals@gmail.com</a></p>
+                                                <!-- /.contact-one__info__text -->
+                                            </div>
+                                            <div class="contact-one__info__item__inner">
+                                                <div class="contact-one__info__icon">
+                                                    <span class="icon-paper-plane"></span>
+                                                </div>
+                                                <!-- /.contact-one__info__icon -->
                                                 <p class="contact-one__info__text"><a href="mailto:abeepattern@gmail.com">abeepattern@gmail.com</a></p>
                                                 <!-- /.contact-one__info__text -->
                                             </div>
@@ -103,7 +117,7 @@
                                         <!-- /.contact-one__info__item -->
                                     </div>
                                     <!-- /.contact-one__info__content -->
-                                    <img src="assets/images/shapes/contact-shape-1-1.png" alt="contact image" class="contact-one__info__image" />
+                                    <!--<img src="assets/images/shapes/contact-shape-1-1.png" alt="contact image" class="contact-one__info__image" />-->
                                 </div>
                                 <!-- /.contact-one__info -->
                             </div>
